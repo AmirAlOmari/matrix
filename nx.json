@@ -13,5 +13,6 @@
         "accessToken": "NGVhYTZiZWItYTQ0NS00ZDNkLWJkZGMtNjYwODQ4ZGJhNTRmfHJlYWQtd3JpdGU="
       }
     }
-  }
+  },
+  "defaultProject": "matrix"
 }
